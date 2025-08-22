@@ -223,3 +223,9 @@ footer{
 }
 
 }
+
+@media screen and (max-width: 800px) {
+    .cart-icon {
+        margin-left: 10px !important;
+    }
+}
