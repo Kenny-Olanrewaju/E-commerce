@@ -223,8 +223,9 @@ footer{
     padding: 8px 0;   
 }
 .cart-icon {
-    padding-right: 50px;
-    
-    }
+    margin-left: 0;
+    font-size: 24px;
+
+}
 
 }
